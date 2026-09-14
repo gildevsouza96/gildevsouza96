@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gilberto!
 
-<!--
-**gildevsouza96/gildevsouza96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de Software
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* `Java`
+* `JavaScript`
+* `HTML & CSS`
+* `SQL`
+* `Git & GitHub`
+
+## 📌 Sobre mim
+
+Desenvolvedor apaixonado por tecnologia e programação, sempre buscando aprender e criar novos projetos.
+
+## 📫 Contato
+
+* GitHub: [@gildevsouza96](https://github.com/gildevsouza96)
