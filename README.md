@@ -17,3 +17,4 @@ Desenvolvedor apaixonado por tecnologia e programação, sempre buscando aprende
 ## 📫 Contato
 
 * GitHub: [@gildevsouza96](https://github.com/gildevsouza96)
+* Gmail: [gildev.souza96@gmail.com]
