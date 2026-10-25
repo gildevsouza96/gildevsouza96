@@ -18,3 +18,4 @@ Desenvolvedor apaixonado por tecnologia e programação, sempre buscando aprende
 
 * GitHub: [@gildevsouza96](https://github.com/gildevsouza96)
 * Gmail: [gildev.souza96@gmail.com]
+* Telefone: +55 (11) 94321-8765
